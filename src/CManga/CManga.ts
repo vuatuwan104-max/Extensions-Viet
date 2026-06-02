@@ -26,7 +26,7 @@ import {
   change_alias,
 } from "./CMangaParser";
 
-export const DOMAIN = "https://cmanga01.com/";
+export const DOMAIN = "https://cmangax17.com/";
 const method = "GET";
 
 export const CMangaInfo: SourceInfo = {
